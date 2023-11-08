@@ -1,0 +1,6 @@
+.mypy_cache/
+__pycache__/
+.idea/
+data/
+ZCH_Tensorboard_Trying_logs/
+best-model*
